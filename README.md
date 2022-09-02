@@ -1,4 +1,4 @@
-# -Easy-Obby
+# Easy-Obby
 A script for the game "Easy Obby" by "@zknx"
 
 Once you join the game at https://www.roblox.com/games/5972698540/Easy-Obby make sure you do not move and that you wait a minute so all objects load.
